@@ -1,5 +1,12 @@
 # Telemarketing-Analysis
 
+
+
+https://github.com/user-attachments/assets/d346e3b6-ebbc-4ba3-a5aa-9dd699d93748
+
+
+
+
 Este repositório contém uma aplicação interativa desenvolvida em Python com Streamlit, projetada para análise de dados de telemarketing. A aplicação permite o carregamento, filtragem e visualização de dados, além de fornecer opções para exportar os resultados em diferentes formatos.
 
 ### Funcionalidades
